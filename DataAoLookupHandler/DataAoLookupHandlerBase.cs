@@ -1,4 +1,4 @@
-﻿using GenerateTables.Models;
+﻿using DataAoLookupHandler.Models;
 
 namespace DataAoLookupHandler;
 

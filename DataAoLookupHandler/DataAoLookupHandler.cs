@@ -1,6 +1,4 @@
-﻿using GenerateTables.constants;
-
-namespace DataAoLookupHandler;
+﻿namespace DataAoLookupHandler;
 
 public static class DataAoLookupHandler
 {
